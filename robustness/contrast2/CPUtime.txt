@@ -1,0 +1,59 @@
+H=1/16
+Total time is :
+
+ans =
+
+    1.7090
+
+
+H = 1/8
+
+Total time is :
+
+ans =
+
+    0.6256
+
+
+H = 1/4
+
+Total time is :
+
+ans =
+
+    0.2484
+
+
+H = 1/2
+
+Total time is :
+
+ans =
+
+    0.6873
+
+Standard eig in matlab is:
+Elapsed time is 0.143283 seconds.
+
+
+Cov is 2560*2560, h = 1/160.
+H = 1/10
+Total time is :
+
+ans =
+
+    8.3888
+
+H = 1/5
+Total time is :
+
+ans =
+
+   64.7885
+
+H = 1/16
+Total time is :
+
+ans =
+
+    7.3994
